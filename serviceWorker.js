@@ -4,8 +4,6 @@
 
 const REQUEST_HEADERS = [
     'content-type',
-    'X-Gal-Client',
-    'X-Gal-User',
 ];
 const INVALID_REQUESTS = [
     /sockjs-node/,
